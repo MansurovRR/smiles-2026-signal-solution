@@ -57,7 +57,7 @@ if not os.path.exists(DOWNLOADED_FILE):
 
     URL = (
         "https://drive.google.com/file/d/"
-        "1BBHVSI4KB-B8OX46eN1Nm4ARCeq6Rui4/view?usp=sharing"
+        "194ZA2fIa1WXW4voWwqUYljoEhZ9-ihbM/view?usp=sharing"
     )
     gdown.download(URL, DOWNLOADED_FILE, quiet=False)
 
